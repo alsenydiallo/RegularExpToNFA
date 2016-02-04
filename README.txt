@@ -1,6 +1,5 @@
 Name: Alseny Diallo
-SID: 11500034
-email: alseny.diallo@wsu.edu
+email: alsenidiallo@live.com
 
 List of file submitted:
 ----------------------
